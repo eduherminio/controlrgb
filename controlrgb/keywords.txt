@@ -6,7 +6,7 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-controlrgb 	KEYWORD1	controlrgb 
+controlrgb 	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
